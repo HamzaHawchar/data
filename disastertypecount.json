@@ -1,0 +1,401 @@
+[
+  {
+    "year": 1960,
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "total": 2
+  },
+  {
+    "year": 1961,
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "total": 1
+  },
+  {
+    "year": 1962,
+    "drought": 0,
+    "flood": 0,
+    "storm": 3,
+    "total": 3
+  },
+  {
+    "year": 1963,
+    "drought": 0,
+    "flood": 0,
+    "storm": 3,
+    "total": 3
+  },
+  {
+    "year": 1964,
+    "drought": 2,
+    "flood": 4,
+    "storm": 1,
+    "total": 7
+  },
+  {
+    "year": 1966,
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "total": 3
+  },
+  {
+    "year": 1967,
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "total": 1
+  },
+  {
+    "year": 1968,
+    "drought": 0,
+    "flood": 5,
+    "storm": 2,
+    "total": 7
+  },
+  {
+    "year": 1969,
+    "drought": 0,
+    "flood": 0,
+    "storm": 4,
+    "total": 4
+  },
+  {
+    "year": 1970,
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "total": 3
+  },
+  {
+    "year": 1971,
+    "drought": 0,
+    "flood": 5,
+    "storm": 3,
+    "total": 8
+  },
+  {
+    "year": 1972,
+    "drought": 0,
+    "flood": 0,
+    "storm": 4,
+    "total": 4
+  },
+  {
+    "year": 1974,
+    "drought": 0,
+    "flood": 5,
+    "storm": 4,
+    "total": 9
+  },
+  {
+    "year": 1975,
+    "drought": 0,
+    "flood": 1,
+    "storm": 4,
+    "total": 5
+  },
+  {
+    "year": 1976,
+    "drought": 0,
+    "flood": 0,
+    "storm": 9,
+    "total": 9
+  },
+  {
+    "year": 1977,
+    "drought": 0,
+    "flood": 2,
+    "storm": 4,
+    "total": 6
+  },
+  {
+    "year": 1978,
+    "drought": 0,
+    "flood": 1,
+    "storm": 5,
+    "total": 6
+  },
+  {
+    "year": 1979,
+    "drought": 0,
+    "flood": 5,
+    "storm": 1,
+    "total": 6
+  },
+  {
+    "year": 1980,
+    "drought": 0,
+    "flood": 8,
+    "storm": 5,
+    "total": 13
+  },
+  {
+    "year": 1981,
+    "drought": 0,
+    "flood": 0,
+    "storm": 16,
+    "total": 16
+  },
+  {
+    "year": 1982,
+    "drought": 8,
+    "flood": 0,
+    "storm": 3,
+    "total": 11
+  },
+  {
+    "year": 1983,
+    "drought": 0,
+    "flood": 3,
+    "storm": 8,
+    "total": 11
+  },
+  {
+    "year": 1984,
+    "drought": 0,
+    "flood": 8,
+    "storm": 10,
+    "total": 18
+  },
+  {
+    "year": 1985,
+    "drought": 0,
+    "flood": 12,
+    "storm": 1,
+    "total": 13
+  },
+  {
+    "year": 1986,
+    "drought": 0,
+    "flood": 1,
+    "storm": 5,
+    "total": 6
+  },
+  {
+    "year": 1987,
+    "drought": 6,
+    "flood": 7,
+    "storm": 6,
+    "total": 19
+  },
+  {
+    "year": 1988,
+    "drought": 0,
+    "flood": 13,
+    "storm": 1,
+    "total": 14
+  },
+  {
+    "year": 1989,
+    "drought": 0,
+    "flood": 7,
+    "storm": 2,
+    "total": 9
+  },
+  {
+    "year": 1990,
+    "drought": 0,
+    "flood": 5,
+    "storm": 9,
+    "total": 14
+  },
+  {
+    "year": 1991,
+    "drought": 0,
+    "flood": 21,
+    "storm": 3,
+    "total": 24
+  },
+  {
+    "year": 1992,
+    "drought": 0,
+    "flood": 12,
+    "storm": 4,
+    "total": 16
+  },
+  {
+    "year": 1993,
+    "drought": 8,
+    "flood": 14,
+    "storm": 4,
+    "total": 26
+  },
+  {
+    "year": 1994,
+    "drought": 0,
+    "flood": 10,
+    "storm": 4,
+    "total": 14
+  },
+  {
+    "year": 1995,
+    "drought": 0,
+    "flood": 11,
+    "storm": 3,
+    "total": 14
+  },
+  {
+    "year": 1996,
+    "drought": 1,
+    "flood": 20,
+    "storm": 18,
+    "total": 39
+  },
+  {
+    "year": 1997,
+    "drought": 0,
+    "flood": 33,
+    "storm": 0,
+    "total": 33
+  },
+  {
+    "year": 1998,
+    "drought": 0,
+    "flood": 13,
+    "storm": 20,
+    "total": 33
+  },
+  {
+    "year": 1999,
+    "drought": 0,
+    "flood": 14,
+    "storm": 19,
+    "total": 33
+  },
+  {
+    "year": 2000,
+    "drought": 7,
+    "flood": 42,
+    "storm": 8,
+    "total": 57
+  },
+  {
+    "year": 2001,
+    "drought": 0,
+    "flood": 33,
+    "storm": 6,
+    "total": 39
+  },
+  {
+    "year": 2002,
+    "drought": 16,
+    "flood": 24,
+    "storm": 6,
+    "total": 46
+  },
+  {
+    "year": 2003,
+    "drought": 0,
+    "flood": 25,
+    "storm": 15,
+    "total": 40
+  },
+  {
+    "year": 2004,
+    "drought": 0,
+    "flood": 34,
+    "storm": 0,
+    "total": 34
+  },
+  {
+    "year": 2005,
+    "drought": 0,
+    "flood": 134,
+    "storm": 9,
+    "total": 143
+  },
+  {
+    "year": 2006,
+    "drought": 0,
+    "flood": 44,
+    "storm": 5,
+    "total": 49
+  },
+  {
+    "year": 2007,
+    "drought": 0,
+    "flood": 83,
+    "storm": 2,
+    "total": 85
+  },
+  {
+    "year": 2008,
+    "drought": 0,
+    "flood": 80,
+    "storm": 1,
+    "total": 81
+  },
+  {
+    "year": 2009,
+    "drought": 252,
+    "flood": 38,
+    "storm": 11,
+    "total": 301
+  },
+  {
+    "year": 2010,
+    "drought": 0,
+    "flood": 26,
+    "storm": 18,
+    "total": 44
+  },
+  {
+    "year": 2011,
+    "drought": 0,
+    "flood": 32,
+    "storm": 4,
+    "total": 36
+  },
+  {
+    "year": 2012,
+    "drought": 0,
+    "flood": 28,
+    "storm": 2,
+    "total": 30
+  },
+  {
+    "year": 2013,
+    "drought": 0,
+    "flood": 40,
+    "storm": 15,
+    "total": 55
+  },
+  {
+    "year": 2014,
+    "drought": 0,
+    "flood": 21,
+    "storm": 10,
+    "total": 31
+  },
+  {
+    "year": 2015,
+    "drought": 13,
+    "flood": 65,
+    "storm": 15,
+    "total": 93
+  },
+  {
+    "year": 2016,
+    "drought": 0,
+    "flood": 81,
+    "storm": 9,
+    "total": 90
+  },
+  {
+    "year": 2017,
+    "drought": 0,
+    "flood": 75,
+    "storm": 23,
+    "total": 98
+  },
+  {
+    "year": 2018,
+    "drought": 2,
+    "flood": 20,
+    "storm": 44,
+    "total": 66
+  }
+]
