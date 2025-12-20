@@ -1,0 +1,6666 @@
+[
+  {
+    "location": "Banda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maharashtra",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nagapattinam",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "West Bengal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Agar-Malwa  districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Agra",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ahmednagar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ajmer",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Akola districts",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Aligarh",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Allahabad",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Allahbad",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Alwar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ambedkar Nagar",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Amravati",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "and Rohtak",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Andhra Pradesh",
+    "drought": 5,
+    "flood": 0,
+    "storm": 2,
+    "Grand Total": 7
+  },
+  {
+    "location": "Andhra Pradesh province",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Anuppur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Araria",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Arunachal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Arunachal Pradesh",
+    "drought": 0,
+    "flood": 5,
+    "storm": 0,
+    "Grand Total": 5
+  },
+  {
+    "location": "Arunachal Pradesh province",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Arunachal Pradesh provinces",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ashoknagar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Assam",
+    "drought": 1,
+    "flood": 8,
+    "storm": 1,
+    "Grand Total": 10
+  },
+  {
+    "location": "Auraiya",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Azamgarh",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Badaun",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Bagalkot",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bahraich",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Balaghat",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Balarampur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Balia",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ballia",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Balrampur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Banas Kantha districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Banda",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bangaigaon",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bangalore Rural",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bangalore Urban",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Banka",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Banswara",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Barabanki",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bareilly",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Barmer",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Barpeta",
+    "drought": 1,
+    "flood": 4,
+    "storm": 0,
+    "Grand Total": 5
+  },
+  {
+    "location": "Barwani",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Basti",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Begusarai",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Belgaum",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bellary",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bengale occidental",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bhabua",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bhagalpur",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Bhilwara",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bhind",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bhojpur",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Bhuragaon",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bid",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bidar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bihar",
+    "drought": 1,
+    "flood": 9,
+    "storm": 2,
+    "Grand Total": 12
+  },
+  {
+    "location": "Bijnor",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bijnore",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bikaner",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bishnupur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bishnupur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bokaro",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bongaigaon",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Bulandshahr",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Buldana",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bundi",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Burhanpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Buxar",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Cachar",
+    "drought": 1,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Central Sikkim",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chamba",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chamrajnagar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chandauli",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chandel",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chandrapur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chatra",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chengannur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chennai",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Chhatarpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chhattisgarh",
+    "drought": 2,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Chhota Udepur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chirang",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chitradurga",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chitrakoot",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chittaurgarh",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Churachandpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Churu",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Cuddalore",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Cuddapah",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Damoh",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Darbhanga",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Darrang",
+    "drought": 1,
+    "flood": 4,
+    "storm": 0,
+    "Grand Total": 5
+  },
+  {
+    "location": "Darrang",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Darrang districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Datia",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dausa",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Davanagere",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Delhi",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Deoghar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Deoria",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Dewas",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dhanbad",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dhemaji",
+    "drought": 1,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 4
+  },
+  {
+    "location": "Dhemaji districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dhemjai",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dhubri",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Dhuburi",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Dhule",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dibrugarh",
+    "drought": 1,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Dimapur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dindigul and Ramnad",
+    "drought": 0,
+    "flood": 0,
+    "storm": 2,
+    "Grand Total": 2
+  },
+  {
+    "location": "Dindori",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dumka",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dungarpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "East Champaran",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "East Nimar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Etah",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Etawah",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Faizabad",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Farrukhabad",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Farrukkhabad",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Fatehpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Firozabad",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gadag districts",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gajapati",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ganganagar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ganjam",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Garhchiroli",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Garhwa",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gautam Buddha Nagar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gaya",
+    "drought": 1,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Ghaziabad",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Ghazipur",
+    "drought": 1,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Giridih",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Goa",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Goalpara",
+    "drought": 1,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 4
+  },
+  {
+    "location": "Goalpara districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Godalpur",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Godda",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Golaghat",
+    "drought": 1,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 4
+  },
+  {
+    "location": "Golaghat",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gonda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gopalganj",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Gorakhpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gujarat",
+    "drought": 3,
+    "flood": 4,
+    "storm": 0,
+    "Grand Total": 7
+  },
+  {
+    "location": "Gujarat -",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gujarat states",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gulbarga",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gumla",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Guna",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gurgaon",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gwalior",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hailakandi",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hanumangarh",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Harda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hardoi",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Haryana",
+    "drought": 1,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Haryana states",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hathras",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Himachal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Himachal Pradesh",
+    "drought": 2,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Himachal Pradesh provinces",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hingoli",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hisar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hoshangabad",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Imphal East",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jabalpur",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Jaipur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jaisalmer",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jalaun",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Jalgaon",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jalna",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jalor",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jalore",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jalpaiguri districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jammu and Kashmir",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Jamtara",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jamui",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jaunpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jehanabad",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jhabua districts",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jhansi",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jharkand",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jharkhand",
+    "drought": 0,
+    "flood": 1,
+    "storm": 2,
+    "Grand Total": 3
+  },
+  {
+    "location": "Jodhpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jorhat",
+    "drought": 1,
+    "flood": 5,
+    "storm": 0,
+    "Grand Total": 6
+  },
+  {
+    "location": "Jyotiba Phule Nagar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kamrup",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Kancheepuram",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kandhamal",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kangra",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kannauj",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kanpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kanpur Dehat",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Karamganj",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Karbi Anglong",
+    "drought": 1,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Karimganj",
+    "drought": 1,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Karnataka",
+    "drought": 2,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Karnataka states",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Katihar",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Katni",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kaushambi",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kerala",
+    "drought": 2,
+    "flood": 6,
+    "storm": 1,
+    "Grand Total": 9
+  },
+  {
+    "location": "Khagaria",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Khar-Danda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kinnaur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kishanganj",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Koderma",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kohima",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kokrajhar",
+    "drought": 1,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 4
+  },
+  {
+    "location": "Kolar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kolhapur",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Kolkata",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Koppal",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kozhikode",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kullu",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kurunthancode",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kushinagar",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Lahaul and Spiti",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Lakhimpur",
+    "drought": 1,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 4
+  },
+  {
+    "location": "Lakhimpur Kheri",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Lakhisarai",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Lakshadweep Islands",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Latehar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Latur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Lohardaga",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Lucknow",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Madhepura",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Madhubani districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Madhya Pradesh",
+    "drought": 3,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Madhya Pradesh provinces",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Madhya Prasdeh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Madhya Prasdesh",
+    "drought": 2,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Madurai districts",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Madyha Pradesh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maharajganj",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maharashtra",
+    "drought": 3,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 6
+  },
+  {
+    "location": "Maharashtra provinces",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maharashtra states",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mahendargarh",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mahoba",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mainpuri",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Malda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Malkangiri districts",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mandi",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mandla",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Mandya",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mangaluru",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Manipur",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Marigaon",
+    "drought": 1,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Marigaon districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mathura",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mau",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Meerut",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Meghalaya",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mirzapur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mirzapur districts",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mizoram",
+    "drought": 0,
+    "flood": 0,
+    "storm": 3,
+    "Grand Total": 3
+  },
+  {
+    "location": "Mizorem",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mokokchung",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mon",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Moradabad",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Morena",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mumbai area",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Munger",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Muzaffarnagar",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Muzaffarpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Muzafferpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mysore",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nabarangpur",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nagaland",
+    "drought": 2,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Nagaland provinces",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nagaon",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Nagapattinam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nagaur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nalanda",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Nalanda districts",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nalbari",
+    "drought": 1,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Nalbari districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nanded",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nandurbar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Narsinghpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nashik",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Navsari",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Navsari and Surat",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Nawada",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nellore districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "North Lakhimpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Odisha",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Odisha states",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Orissa",
+    "drought": 4,
+    "flood": 4,
+    "storm": 0,
+    "Grand Total": 8
+  },
+  {
+    "location": "Osmanabad",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Pakur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Palamu",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Pali",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Pali",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Panna",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Parbhani",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Pashchim Singhbhum districts",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Patan",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Patan",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Patna",
+    "drought": 1,
+    "flood": 1,
+    "storm": 2,
+    "Grand Total": 4
+  },
+  {
+    "location": "Phek",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Pilibhit",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Pithoragahr districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Prakasam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Puducherry province",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Pudukottai",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Pune",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Punjab",
+    "drought": 1,
+    "flood": 5,
+    "storm": 1,
+    "Grand Total": 7
+  },
+  {
+    "location": "Punjab",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Purba Singhbhum",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Puri",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Purnea",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rae Bareli",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Raichur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Raigad",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Raigarh",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Raisen",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Rajasthan",
+    "drought": 5,
+    "flood": 3,
+    "storm": 2,
+    "Grand Total": 10
+  },
+  {
+    "location": "Rajsamand",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rampur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ranchi",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ratlam",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ratnagiri",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rayagada",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rewa",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Rohtas",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sabarkantha",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sagar",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Saharanpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Saharsa",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sahibganj",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Samastipur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Sangli",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sant Kabir Nagar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Santkabir Nagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Saraikela Kharsawan",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Saran",
+    "drought": 1,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Sasaram",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Satara",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Satna",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Sawai Madhopur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sehore",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Senapati",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Seoni",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Shahdol",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Shahjahanpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Shajapur",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Sheikhpura",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sheopur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Shimla",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Shivpuri",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Shravasti",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sibsagar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sibsagar districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Siddharth Nagar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sidhi",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sikar",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sikkim",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Simdega",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sirmaur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sirohi",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Sitamarhi",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sitapur",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Sivasagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sivassagar/Charaideo",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Siwan",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Siwan districts",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Solan",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Solapur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sonitpur",
+    "drought": 1,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Sultanpur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Supaul",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Surat",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tamenglong",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tami Nadu",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tamil Nadu provinces",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Telangana",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Tezpur sub-divisions",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Thane",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Thane",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Thanjavur",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Theni",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Thiruvallur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Thoubal",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Tikamgarh",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Tinsukia",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tinsukia districts",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tirunelveli",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tiruvarur",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tonk",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tripura",
+    "drought": 0,
+    "flood": 0,
+    "storm": 2,
+    "Grand Total": 2
+  },
+  {
+    "location": "Tripura states",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tuensang",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tumkur",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tuticorin districts",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Udaipur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Udaipur districts",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Udalguri",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ukhrul districts",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Umaria",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Unnao",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Uttar Pradesh",
+    "drought": 1,
+    "flood": 6,
+    "storm": 2,
+    "Grand Total": 9
+  },
+  {
+    "location": "Uttar Pradesh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Uttarakhand",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Vaishali",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Vaishali districts",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Valsad",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Varanasi",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Vidisha",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Villupuram districts",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Wardha",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Washim",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "West Bengal",
+    "drought": 0,
+    "flood": 8,
+    "storm": 2,
+    "Grand Total": 10
+  },
+  {
+    "location": "West Bengal states",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "West Imphal",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "western parts Meghalaya",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Wokha",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Yavatmal",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Zunheboto districts",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ahmedabad",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Alapuzzha",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Allahabad",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Almora",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Amarpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Amrawati district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Amreli",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Ananatapur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Anand",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Anantapur",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "and Prakasham",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Andhra Pradesh",
+    "drought": 0,
+    "flood": 18,
+    "storm": 25,
+    "Grand Total": 43
+  },
+  {
+    "location": "Andhra Pradesh province",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Andhra Pradresh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Andra Pradesh",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Angul",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Angul district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Araria",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Arunachal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Arunachal Pradesh",
+    "drought": 0,
+    "flood": 12,
+    "storm": 0,
+    "Grand Total": 12
+  },
+  {
+    "location": "Assam",
+    "drought": 0,
+    "flood": 28,
+    "storm": 2,
+    "Grand Total": 30
+  },
+  {
+    "location": "Assam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Assam province",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Assam state",
+    "drought": 0,
+    "flood": 4,
+    "storm": 1,
+    "Grand Total": 5
+  },
+  {
+    "location": "Assam.",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Astaranga",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Azamgarh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Azamgarh area",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bagalkot",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bagalkote",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bageshwarn",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bahraich",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Baksa",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Balaghat",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Balangir",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Balasore",
+    "drought": 0,
+    "flood": 2,
+    "storm": 2,
+    "Grand Total": 4
+  },
+  {
+    "location": "Balasore district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 2,
+    "Grand Total": 3
+  },
+  {
+    "location": "Ballia",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Balrampur",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Banaskanda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Banaskantha",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Banaskhanta",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Banda",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Bangalore",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Banka",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Bankura",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Banni",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Barabanki",
+    "drought": 0,
+    "flood": 4,
+    "storm": 0,
+    "Grand Total": 4
+  },
+  {
+    "location": "Baragarh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bargarh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Baripada",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Barmer",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Barpeta",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Barpeta.",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Basalore",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Basti",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Baushkata",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Begusarai",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Belgaum",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Bellary",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Beltali",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bengal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bengal Occidental",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bengale Occidental",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Betul district",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Between Nellore",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bhadrak",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Bhagalpur",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Bhalagpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bhandara",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bharuch",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Bhavnagar",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Bhiwandi",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bhopal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bidar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bihar",
+    "drought": 1,
+    "flood": 18,
+    "storm": 11,
+    "Grand Total": 30
+  },
+  {
+    "location": "Bihar Plateau",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bihar state",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Bijapur",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Bilaspur",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Birbhum",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Birbhum district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Boko",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bombay",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Bongaigaon",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Boudh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Bulandshar",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Burdwan",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Cachar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Cachemire",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Calcutta",
+    "drought": 0,
+    "flood": 0,
+    "storm": 4,
+    "Grand Total": 4
+  },
+  {
+    "location": "Calicut",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Cashmire",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chamoli",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chandauli",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chandigarh",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Changlang",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chattarpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chenai",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chennai",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chennai district",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chhattisgarh",
+    "drought": 0,
+    "flood": 4,
+    "storm": 2,
+    "Grand Total": 6
+  },
+  {
+    "location": "Chirang",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Chirgaon",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Chittoor",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Chittoor and Nellore",
+    "drought": 0,
+    "flood": 0,
+    "storm": 2,
+    "Grand Total": 2
+  },
+  {
+    "location": "Cholglamsar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Coastal districts of West Bengal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Coastal Orissa",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Coonoor",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Cuddalore",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Cuddalore coast",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Cuddapah",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Cuttack",
+    "drought": 0,
+    "flood": 3,
+    "storm": 2,
+    "Grand Total": 5
+  },
+  {
+    "location": "Cuttack district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Damoh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dangs",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Darbhanga",
+    "drought": 0,
+    "flood": 4,
+    "storm": 0,
+    "Grand Total": 4
+  },
+  {
+    "location": "Darjeeking",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Darjeeling",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Darrang",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Davanegere",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dehran Dun",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Delhi",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Delhi province",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Demaji district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Demaji district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Deogarh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Dhankanal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dharmapuri",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dharwad",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dhemaji",
+    "drought": 0,
+    "flood": 8,
+    "storm": 0,
+    "Grand Total": 8
+  },
+  {
+    "location": "Dhenkanal",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dhubri",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Dibrugarh",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Digras",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "districts of Bhiwani",
+    "drought": 1,
+    "flood": 0,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Dumka",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Durg",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "East and West Godavari",
+    "drought": 0,
+    "flood": 0,
+    "storm": 3,
+    "Grand Total": 3
+  },
+  {
+    "location": "East Champaran",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "East Gavari",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "East Godavari",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "East Madhya Pradesh",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Eastern Assam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ernakulam",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Erode",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Faizabad",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Gadag",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Gajapathi",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gajapati",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Gandhi Nagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gandhinagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ganges region",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ganjam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 2,
+    "Grand Total": 3
+  },
+  {
+    "location": "Ganjam district",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Garo Hills",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ghaziabad",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Goa",
+    "drought": 0,
+    "flood": 4,
+    "storm": 1,
+    "Grand Total": 5
+  },
+  {
+    "location": "Goalpara",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Goalpara district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gobalpur",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Golaghat",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gonda",
+    "drought": 0,
+    "flood": 4,
+    "storm": 0,
+    "Grand Total": 4
+  },
+  {
+    "location": "Gondia",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gopalganj",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Gorakhpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gujarat",
+    "drought": 1,
+    "flood": 21,
+    "storm": 10,
+    "Grand Total": 32
+  },
+  {
+    "location": "Gujarat Coast",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Gujarat state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Gulbarga",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Guntar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Guntur",
+    "drought": 0,
+    "flood": 4,
+    "storm": 6,
+    "Grand Total": 10
+  },
+  {
+    "location": "Guntur distrits",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hailakandi",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Haryana",
+    "drought": 0,
+    "flood": 10,
+    "storm": 2,
+    "Grand Total": 12
+  },
+  {
+    "location": "Haryana's Ambala",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Haveri",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hemavathi",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Himachacl Pradesh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Himachal Pradesh",
+    "drought": 0,
+    "flood": 15,
+    "storm": 1,
+    "Grand Total": 16
+  },
+  {
+    "location": "Hooghly",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hoogly",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hopal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hoshangabad",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Howrah",
+    "drought": 0,
+    "flood": 0,
+    "storm": 2,
+    "Grand Total": 2
+  },
+  {
+    "location": "Howrahand Hooghly",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Hyderabad",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Idukki",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Imphal West",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Island  Majuli state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jabalpur",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Jagatsinghpur",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Jagatsingpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jainta Hills district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jaisalmer",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jajapur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Jajpur",
+    "drought": 0,
+    "flood": 4,
+    "storm": 0,
+    "Grand Total": 4
+  },
+  {
+    "location": "Jajpur district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jalgaon district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jallore",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jalpaiguri",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jammu",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Jammu and Kashmir",
+    "drought": 0,
+    "flood": 3,
+    "storm": 3,
+    "Grand Total": 6
+  },
+  {
+    "location": "Jammu and Kashmir state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jammu and Kasmir",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Jammu region. almost all 10 districts affected",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jamnagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Jamui",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jamuu and Kashmir",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jharkhand",
+    "drought": 0,
+    "flood": 2,
+    "storm": 4,
+    "Grand Total": 6
+  },
+  {
+    "location": "Jharsuguda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Jorhat",
+    "drought": 0,
+    "flood": 6,
+    "storm": 0,
+    "Grand Total": 6
+  },
+  {
+    "location": "Josidih",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Junagadh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Kachchh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kadapa",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Kadpa",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kakinada",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kalahandi",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kalhandi",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kalimpong",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kamrup",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Kandhamal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kannada",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kannur",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Kanpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kanyakumari",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Karaikal",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Karaikal region",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kargil district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Karimganj",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Karimnagar",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Karnataka",
+    "drought": 1,
+    "flood": 12,
+    "storm": 2,
+    "Grand Total": 15
+  },
+  {
+    "location": "Karnataka state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Karur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Karwar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kasaragod",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kasargode",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kashmir",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Katihar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Katni",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kendrapara",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Kendrapara district",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kendraprada",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Keonjhar",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kerala",
+    "drought": 0,
+    "flood": 12,
+    "storm": 6,
+    "Grand Total": 18
+  },
+  {
+    "location": "Kerala state",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Khab",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Khagaria",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Khamam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Khammam",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Kharimnagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kharo Shimla",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kheda",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Khorda district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Khordha",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Khurda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 2,
+    "Grand Total": 3
+  },
+  {
+    "location": "Kishanganj",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kodagu",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kolkata",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Kollam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Koppal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kora Pani",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Koraput",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Kota",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kottayam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kotturpuram",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kozhikode",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Krishna",
+    "drought": 0,
+    "flood": 5,
+    "storm": 6,
+    "Grand Total": 11
+  },
+  {
+    "location": "Krishnagirin",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kullu",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Kulu",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kurnool",
+    "drought": 0,
+    "flood": 4,
+    "storm": 0,
+    "Grand Total": 4
+  },
+  {
+    "location": "Kurukshetra",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kushinagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Kutch",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Ladakh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Lakhimpu",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Lakhimpur",
+    "drought": 0,
+    "flood": 10,
+    "storm": 0,
+    "Grand Total": 10
+  },
+  {
+    "location": "Lakhimpur Kheri",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Lakshmanathirtha",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Little Andaman",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Lourembam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Madhepura",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Madhubani",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Madhya Pradesh",
+    "drought": 0,
+    "flood": 11,
+    "storm": 0,
+    "Grand Total": 11
+  },
+  {
+    "location": "Madhya Pradesh state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Madhya Prasdesh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Madras",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Madras City",
+    "drought": 0,
+    "flood": 1,
+    "storm": 4,
+    "Grand Total": 5
+  },
+  {
+    "location": "Madras state",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Madras/Nellore",
+    "drought": 0,
+    "flood": 0,
+    "storm": 2,
+    "Grand Total": 2
+  },
+  {
+    "location": "Madurai",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maduri",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Madya Pradesh",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mafya Pradesh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mahaboobnagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mahabubnagar",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Mahad",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mahakalpada",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maharashrta",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maharashstra",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maharashtra",
+    "drought": 0,
+    "flood": 10,
+    "storm": 3,
+    "Grand Total": 13
+  },
+  {
+    "location": "Maharashtra province",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maharashtra state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maharastra",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Mahasamund",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mahboobnagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maihar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mainpuri",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Malappuram and Thiruvananthapuram",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Malda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Maldah",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mandasa",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mandi",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Manipur",
+    "drought": 0,
+    "flood": 3,
+    "storm": 2,
+    "Grand Total": 5
+  },
+  {
+    "location": "Masulipatnam",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mathurapur",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mayurbhang",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mayurbhanj",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Medak",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Meghalaya",
+    "drought": 0,
+    "flood": 5,
+    "storm": 1,
+    "Grand Total": 6
+  },
+  {
+    "location": "Mehsana",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mekhliganj",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Midnapore",
+    "drought": 0,
+    "flood": 2,
+    "storm": 5,
+    "Grand Total": 7
+  },
+  {
+    "location": "Midnapur",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mizorem",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mokokchung district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Morigaon",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Mormugao",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "MP",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mumbaoi",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Munger",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Murshidabad",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Murshidabad district",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mushakpur",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Muzaffarpur",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Muzzaffarpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Mysore",
+    "drought": 1,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Nadia",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nagaon",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Nagapattinam",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Nagpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Naintial",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nalanda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nalbari",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nalbri",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nalgonda",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Naliya",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Namakkal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nandgavan",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Narmada",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Narsinghpur",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Nashik",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nasik district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nasvari",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Natkharana",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Navsari",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nawabganj",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nayagarh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Nayagarth",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nellore",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Neloore",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "New Delhi",
+    "drought": 0,
+    "flood": 3,
+    "storm": 2,
+    "Grand Total": 5
+  },
+  {
+    "location": "Nizamabad",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Northern Bihar state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nowgong",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Nuapada",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Odisha state",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Oinam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Orissa",
+    "drought": 0,
+    "flood": 12,
+    "storm": 13,
+    "Grand Total": 25
+  },
+  {
+    "location": "Orissa state",
+    "drought": 0,
+    "flood": 3,
+    "storm": 3,
+    "Grand Total": 6
+  },
+  {
+    "location": "Orissa state Chayyisgarh state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Pallia Kalan",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Panchmahal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Panna",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Papanasam",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Pathanamthitta",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Patna",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Peepulbari",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Perambalur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Phulbani",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Pondicherry",
+    "drought": 0,
+    "flood": 0,
+    "storm": 2,
+    "Grand Total": 2
+  },
+  {
+    "location": "Porbandar",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Prakasam",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Prakasam district",
+    "drought": 0,
+    "flood": 0,
+    "storm": 2,
+    "Grand Total": 2
+  },
+  {
+    "location": "Puducherry",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Pudukottai",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Pune",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Punjab",
+    "drought": 0,
+    "flood": 12,
+    "storm": 3,
+    "Grand Total": 15
+  },
+  {
+    "location": "Punjab",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Puri",
+    "drought": 0,
+    "flood": 4,
+    "storm": 3,
+    "Grand Total": 7
+  },
+  {
+    "location": "Purnea",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Purnia",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Raebareli",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Raichur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Raipur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rajasthan",
+    "drought": 2,
+    "flood": 12,
+    "storm": 2,
+    "Grand Total": 16
+  },
+  {
+    "location": "Rajasthan state",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Rajkot",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Rajnandgaon",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rajsthan",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ramanathapuram",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ramanathapurum",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ramanthapuram",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rameswaram",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rangareddy",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rangia",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ratnagiri district",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ravalaseema",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rayagada",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rayagda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rewa",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Riva",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rohta",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Rudraprayag",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sabarkanda",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sabarkantha",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sadarpada",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sadiya",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Saharsa",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Sahebganj",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sahra",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Saidapet",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Saini",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Salem",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sambalpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sanjenbam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Saran",
+    "drought": 0,
+    "flood": 4,
+    "storm": 0,
+    "Grand Total": 4
+  },
+  {
+    "location": "Saurashtra coast",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Seoni",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Sheikhpura",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Shekhpura",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sheohar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Shravasti",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Shrawasti",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sibasagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sibsaga",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Siddharthnagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sikkim",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sikkim state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sirkali",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sitamarhi",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Sitapur",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Sivasagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sonamura",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sonepur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sonitpur",
+    "drought": 0,
+    "flood": 5,
+    "storm": 0,
+    "Grand Total": 5
+  },
+  {
+    "location": "South 24 Parganas",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "South 24-Parganas",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "South and West Tripura",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "South Odisha",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Srikakulam",
+    "drought": 0,
+    "flood": 2,
+    "storm": 2,
+    "Grand Total": 4
+  },
+  {
+    "location": "Srinagar",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Subarnapur Cuttack",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sultanpur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Sundergarh",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Supaul",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Surat",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Surender Nagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Surendranagar",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tami Nadu",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tami Nadu state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tamil Nadu",
+    "drought": 1,
+    "flood": 13,
+    "storm": 9,
+    "Grand Total": 23
+  },
+  {
+    "location": "Tamil Nadu state",
+    "drought": 0,
+    "flood": 0,
+    "storm": 2,
+    "Grand Total": 2
+  },
+  {
+    "location": "Tehri district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Telangana",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Thanjavur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 2,
+    "Grand Total": 3
+  },
+  {
+    "location": "Thiruvananthapuram",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Thiruvarur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Thoothukudi",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Thrissir",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Thrissur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tinsukia",
+    "drought": 0,
+    "flood": 3,
+    "storm": 1,
+    "Grand Total": 4
+  },
+  {
+    "location": "Tirivarur",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tiruchirapalli",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tirunelveli",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tirunelvelli",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tiruvallur",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tiruvarur",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tripura",
+    "drought": 0,
+    "flood": 6,
+    "storm": 1,
+    "Grand Total": 7
+  },
+  {
+    "location": "Tripura State",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Tura",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Tuticorin",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Udaipur",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "Udalguri",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Ulto",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Unnao",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Upper Assama",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Uttar Pradesh",
+    "drought": 1,
+    "flood": 32,
+    "storm": 19,
+    "Grand Total": 52
+  },
+  {
+    "location": "Uttar Pradesh state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 1,
+    "Grand Total": 2
+  },
+  {
+    "location": "Uttar Prasdesh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Uttarakhand",
+    "drought": 0,
+    "flood": 7,
+    "storm": 1,
+    "Grand Total": 8
+  },
+  {
+    "location": "Uttaranchal",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "UttarkashiBadhkot",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Utter Pradesh",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Vadodara",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Vadodra",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Vaishali",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Valsad",
+    "drought": 0,
+    "flood": 2,
+    "storm": 1,
+    "Grand Total": 3
+  },
+  {
+    "location": "Vamanapuram",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Varanasi",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Vellore",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Villupuram",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Virudhunagar district",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Visakhapatam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Visakhapatanam",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Visakhapathnam city",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Visakhapatnam",
+    "drought": 0,
+    "flood": 0,
+    "storm": 2,
+    "Grand Total": 2
+  },
+  {
+    "location": "Visakhapatnam distrcits",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "Vizianagaram",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "W Bengal",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Waidhali",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "Warangal",
+    "drought": 0,
+    "flood": 3,
+    "storm": 0,
+    "Grand Total": 3
+  },
+  {
+    "location": "Wes Govari",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "West",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "West Begal",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "West Bengal",
+    "drought": 0,
+    "flood": 15,
+    "storm": 14,
+    "Grand Total": 29
+  },
+  {
+    "location": "West Bengal state",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  },
+  {
+    "location": "West Bengal.",
+    "drought": 0,
+    "flood": 0,
+    "storm": 1,
+    "Grand Total": 1
+  },
+  {
+    "location": "West Champaran",
+    "drought": 0,
+    "flood": 2,
+    "storm": 0,
+    "Grand Total": 2
+  },
+  {
+    "location": "West Godavari",
+    "drought": 0,
+    "flood": 2,
+    "storm": 2,
+    "Grand Total": 4
+  },
+  {
+    "location": "Yangthang",
+    "drought": 0,
+    "flood": 1,
+    "storm": 0,
+    "Grand Total": 1
+  }
+]
